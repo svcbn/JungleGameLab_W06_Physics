@@ -1,3 +1,13 @@
+# JungleGameLab W06  
+##### Krafton Jungle GameLab Study Project W06  
+   
+- 개발 환경 : Unity, C#  
+- 작업 인원 : 1명
+- 제작 기간 : 2023.09.19 ~ 2023.09.25 (7일)
+  
+  
+---
+
 # Functional Recursive Portals in Unity (URP)
 
 A recursive, physically-accurate portal system for Unity's Universal Render Pipeline.
